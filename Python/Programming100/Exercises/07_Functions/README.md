@@ -50,3 +50,33 @@ Breaking code into reusable functions improves maintainability and reduces error
 ### Real-World Applications
 
 - *(Complete after finishing the exercise.)*
+
+---
+
+## Engineering Reflection
+
+### What I Learned
+
+- How to define and call reusable functions.
+- How parameters provide information to a function.
+- How `return` sends a calculated value back to the caller.
+- How functions improve readability and reduce duplicated code.
+- How a `main()` function organizes program execution.
+- How type hints improve clarity for expected inputs and outputs.
+
+### Potential Improvements
+
+- Validate that all inputs remain between `0.0` and `1.0`.
+- Allow the user to enter risk values interactively.
+- Add risk categories such as Low, Moderate, High, and Critical.
+- Move weighting values into a configuration file.
+- Add unit tests for expected and invalid inputs.
+
+### Real-World Applications
+
+- Security risk scoring
+- Vulnerability prioritization
+- Asset criticality evaluation
+- Detection engineering
+- Threat analysis
+- Defensive automation
