@@ -41,12 +41,20 @@ Understanding File I/O is a foundational software engineering skill.
 
 ### What I Learned
 
-(To be completed)
+- Opened and closed files safely using context managers.
+- Read and wrote text files using Python.
+- Understood how applications preserve data after execution.
 
 ### Potential Improvements
 
-(To be completed)
+- Support CSV and JSON formats.
+- Validate file existence before reading.
+- Improve error handling for missing or corrupted files.
 
 ### Real-World Applications
 
-(To be completed)
+- Log analysis
+- Configuration management
+- Security reporting
+- Asset inventories
+- Detection engineering
