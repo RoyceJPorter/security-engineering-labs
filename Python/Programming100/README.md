@@ -2,6 +2,14 @@
 
 This directory contains Python exercises and small projects developed while completing the TCM Security Programming 100: Fundamentals course.
 
+## Status
+
+**Status:** ✅ Completed
+
+## Certificate
+
+- TCM Security Programming100: Fundamentals (Completed)
+
 ## Objectives
 
 - Reinforce Python fundamentals
