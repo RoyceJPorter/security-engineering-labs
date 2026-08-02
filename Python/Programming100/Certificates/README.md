@@ -4,4 +4,4 @@ This directory contains certificates earned while completing the TCM Security Pr
 
 ## Certificates
 
-- Programming100 Completion Certificate
+- TCM Security Programming100 Completion Certificate
