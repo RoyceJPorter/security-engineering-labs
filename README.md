@@ -2,23 +2,24 @@
 
 Welcome to my public engineering portfolio.
 
-This repository showcases practical cybersecurity engineering projects, automation tools, detection engineering, AI-assisted security research, and defensive security workflows.
+This repository documents my journey as a cybersecurity engineer through hands-on software development, artificial intelligence engineering, detection engineering, and cognitive security research.
 
-The goal of this repository is to demonstrate engineering methodology, secure software development practices, and technical documentation while respecting research confidentiality and intellectual property agreements.
+The purpose of this repository is to demonstrate engineering methodology, secure software development practices, technical documentation, and continuous professional growth while respecting research confidentiality and intellectual property agreements.
 
 ---
 
 ## Areas of Focus
 
 - Cybersecurity Engineering
+- Artificial Intelligence (AI) Engineering
 - Detection Engineering
 - Security Automation
-- Python Development
+- Python Software Development
 - AI Security
 - Prompt Injection Defense
 - Explainable AI (XAI)
 - Human-AI Collaboration
-- Cognitive Security
+- Cognitive Security Research
 - Threat Detection Research
 
 ---
@@ -35,19 +36,20 @@ Documentation/
 Labs/
 ```
 
-Each directory contains standalone engineering exercises, tooling, or research notes that can be shared publicly.
+Each directory contains structured learning paths, engineering exercises, software projects, technical documentation, or research notes that can be shared publicly.
 
 ---
 
 ## Current Projects
 
-Coming Soon
+Current engineering work includes:
 
-- Python Security Automation
-- IOC Extraction
+- Python Software Engineering
+- Security Automation
 - Detection Engineering
 - Log Analysis
-- AI Security Experiments
+- Artificial Intelligence Engineering
+- AI Security Research
 - Network Security Labs
 
 ---
@@ -56,7 +58,8 @@ Coming Soon
 
 - LinkedIn: https://www.linkedin.com/in/royce-porter-j/
 - GitHub Profile: https://github.com/RoyceJPorter
+- ORCID: https://orcid.org/0009-0005-5799-9884
 
 ---
 
-*Some professional research projects remain private due to research agreements or intellectual property restrictions.*
+*Some research projects remain private due to research agreements, intellectual property restrictions, or responsible disclosure requirements.*
