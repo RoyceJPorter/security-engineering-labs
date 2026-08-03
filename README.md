@@ -24,6 +24,18 @@ The purpose of this repository is to demonstrate engineering methodology, secure
 
 ---
 
+## Learning Paths
+
+| Learning Path | Status |
+|---------------|:------:|
+| Programming100: Fundamentals | ✅ Complete |
+| AI100: Fundamentals | 🟡 In Progress |
+| Linux100: Fundamentals | ⏳ Planned |
+| Python 101 for Hackers | ⏳ Planned |
+| AI Hacking 101 | ⏳ Planned |
+
+---
+
 ## Repository Structure
 
 ```
